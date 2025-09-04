@@ -1,7 +1,11 @@
 team: tigers
 
+<<<<<<< HEAD
 manager: vary
 
+=======
+manager: kenny 
+>>>>>>> 2eb9e32 (Edit what)
 members: 
 -seho
 -zomin
